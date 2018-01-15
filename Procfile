@@ -1,1 +1,1 @@
-web: sh target/bin/webapp
+web: sh target/Project1-0.0.1-SNAPSHOT
